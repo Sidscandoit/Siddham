@@ -1,2 +1,2 @@
 # Siddham
-print ("hello eveyone")
+Print ("hello eveyone")
